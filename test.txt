@@ -10,3 +10,5 @@ test case 2>>pass
 test case 3>>fail
 
 test case 4>>pass
+
+hi
