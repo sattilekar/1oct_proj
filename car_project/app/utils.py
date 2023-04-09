@@ -36,7 +36,7 @@ class prediction():
         
         symboling = self.data["html_symb"]
         normalized_losses = self.data["html_norm"]
-        make = self.data["html_make"]
+        make = self.data["make"]
         fuel_type = self.data["html_fuel"]
         aspiration = self.data["html_asp"]
         num_of_doors = self.data["html_num_of_doors"]
